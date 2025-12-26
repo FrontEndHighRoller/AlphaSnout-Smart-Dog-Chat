@@ -2,6 +2,9 @@
 
 > An interactive dog training product and e-commerce website. Alpha Snout allows dogs to "communicate" using smart talking buzzers that respond to recorded messages.
 
+![image](screenshots/screen-1.png)
+![image](screenshots/screen-2.png)
+
 ---
 
 ## 🐶 Project Overview
