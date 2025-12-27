@@ -73,9 +73,27 @@ The project included a **multi-page e-commerce website** showcasing the product,
 
 ---
 
-## 🙋‍♂️ Author
+## ⚙️ How to Run Locally
 
-**Your Name**  
-- GitHub: [https://github.com/your-username ](https://github.com/FrontEndHighRoller) 
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dennis-rumanek/)  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/FrontEndHighRoller/AlphaSnout-Smart-Dog-Chat.git
+2. Open index.html in your browser
+3. Resize the screen to see responsive layouts and image switching in action 🎯
 
+---
+
+🏆 Challenge Credit
+Challenge by Frontend Mentor
+https://www.frontendmentor.io
+
+---
+
+🙋‍♂️ Author
+Dennis Rumanek
+
+GitHub: https://github.com/FrontEndHighRoller
+
+LinkedIn: https://www.linkedin.com/in/dennis-rumanek/
+
+⭐ If you like this solution, feel free to star the repository!
